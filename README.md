@@ -5,4 +5,7 @@
 #### The website consist of sections of group of laboratories and doctors in a way that make the therapeutic process easier and faster.
 -------
 ## Links:
+### Figma
 https://www.figma.com/file/3DVu2xyRFmhcjj1MQJjcHD/html.to.design-(Community)?node-id=0-1&t=Yvq7klmVTlGQRLDX-0
+### Live URL :
+https://bushra1995.github.io/Masterpiece-Wireframe-and-Mockup/
