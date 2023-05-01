@@ -6,6 +6,6 @@
 -------
 ## Links:
 ### Figma
-https://www.figma.com/file/3DVu2xyRFmhcjj1MQJjcHD/html.to.design-(Community)?node-id=0-1&t=Yvq7klmVTlGQRLDX-0
+https://www.figma.com/file/ccKur1xH0oeFVFYNzqJdZu/Untitled?type=design&node-id=0-1&t=vHrWWKvwb48io6HB-0
 ### Live URL :
 https://bushra1995.github.io/Masterpiece-Wireframe-and-Mockup/
